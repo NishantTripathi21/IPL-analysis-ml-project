@@ -116,11 +116,11 @@ python -m streamlit run app/app.py
 ## 🖼 Screenshots
 
 ### 🏠 App Homepage
-*![Homepage](image.png)*
+*![Homepage](assets/image.png)*
 
 
 ### 🎯 Prediction Output
-*![Prediction](image-1.png)*
+*![Prediction](assets/image-1.png)*
 
 ---
 
