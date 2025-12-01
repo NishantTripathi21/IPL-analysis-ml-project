@@ -140,4 +140,4 @@ python -m streamlit run app/app.py
 * **B.Tech CSE, NIT Srinagar**
 * *Interests:* ML • Backend • Web Development • Cloud 
 
-[GitHub](https://github.com/NishantTripathi21) | [LinkedIn](https://linkedin.com/in/nishanttripathi021)
+[GitHub](https://github.com/NishantTripathi21) | [LinkedIn](https://linkedin.com/in/nishanttripathi21)
